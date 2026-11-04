@@ -1,0 +1,74 @@
+[
+  {
+    "id": "data-mine",
+    "category": "Privacy",
+    "q": "Is my smart home data in really mine?",
+    "a": "We help you select hardware and software that doesn't call out to the cloud so your data stays under your control."
+  },
+  {
+    "id": "self-hosted",
+    "category": "Privacy",
+    "q": "What does \"self-hosted\" mean?",
+    "a": "Your smart home software runs on a device in your own home (like a small server) instead of a company's cloud. Your automations keep working even if the internet goes down or a vendor shuts off a service."
+  },
+  {
+    "id": "cost",
+    "category": "Getting Started",
+    "q": "How high is the initial investment?",
+    "a": "It depends on your property size and type. We offer a variety of services, so a free consultation is the best way to get a realistic picture."
+  },
+  {
+    "id": "equipment-first",
+    "category": "Getting Started",
+    "q": "Do I need to buy equipment before contacting Cool IoT?",
+    "a": "No. During the consultation we go over everything that is required, so you only buy what you actually need."
+  },
+  {
+    "id": "it-service",
+    "category": "Getting Started",
+    "q": "Do I need an IT service to maintain my system?",
+    "a": "No. Everything we use is open source, so you can learn to build your own automations and experiences. Cool IoT is always here to help when you want a hand."
+  },
+  {
+    "id": "what-is-ha",
+    "category": "Home Assistant",
+    "q": "What is Home Assistant?",
+    "a": "Home Assistant is a free, open-source smart home platform. It connects devices from many brands in one place and runs locally, so your dashboards and automations stay in your home."
+  },
+  {
+    "id": "what-is-esphome",
+    "category": "Home Assistant",
+    "q": "What is ESPHome?",
+    "a": "ESPHome lets you turn low-cost ESP32/ESP8266 microcontrollers into custom sensors and switches that plug straight into Home Assistant, configured with simple YAML files."
+  },
+  {
+    "id": "what-is-hacs",
+    "category": "Home Assistant",
+    "q": "What is HACS?",
+    "a": "HACS (the Home Assistant Community Store) is a community add-on that makes it easy to install custom integrations, themes and dashboard cards made by other users."
+  },
+  {
+    "id": "backups",
+    "category": "Tips",
+    "q": "How often should I back up my smart home?",
+    "a": "Automatic backups are best, and at least one copy should live somewhere other than the device running your system. Test restoring a backup occasionally so you know it works."
+  },
+  {
+    "id": "z-wave",
+    "category": "Wireless",
+    "q": "What is Z-Wave?",
+    "a": "Z-Wave is a low frequency wireless mesh communication protocol used in smart home devices. It allows secure, long-range and very low-powered communication between devices."
+  },
+  {
+    "id": "zigbee",
+    "category": "Wireless",
+    "q": "What is Zigbee?",
+    "a": "Zigbee is a high frequency wireless mesh communication protocol used in smart home devices. It allows low-powered wireless devices to communicate at reasonably high data rates."
+  },
+  {
+    "id": "wifi",
+    "category": "Wireless",
+    "q": "What is Wi-Fi?",
+    "a": "Wi-Fi is a high frequency wireless communication protocol used to connect devices to the internet. It allows devices to communicate at very high data rates, but it uses significantly more power than Z-Wave or Zigbee."
+  }
+]
