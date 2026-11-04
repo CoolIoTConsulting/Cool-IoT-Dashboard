@@ -52,6 +52,6 @@ export const ARTICLES = {
 // ------------------------------------------------------------
 export const FORM = {
   endpoint: 'https://api.web3forms.com/submit',
-  accessKey: '',
-  subjectPrefix: 'Cool IoT Dashboard: ',
+  accessKey: 'e6431865-0583-483a-a448-6ea7174d0fef',
+  subjectPrefix: 'Cool IoT Consulting Dashboard: ',
 }
